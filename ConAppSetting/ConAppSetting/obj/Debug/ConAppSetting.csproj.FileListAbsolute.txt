@@ -1,0 +1,11 @@
+D:\test\other\ConAppSetting\ConAppSetting\bin\Debug\ConAppSetting.exe.config
+D:\test\other\ConAppSetting\ConAppSetting\bin\Debug\ConAppSetting.exe
+D:\test\other\ConAppSetting\ConAppSetting\bin\Debug\ConAppSetting.pdb
+D:\test\other\ConAppSetting\ConAppSetting\obj\Debug\ConAppSetting.csprojAssemblyReference.cache
+D:\test\other\ConAppSetting\ConAppSetting\obj\Debug\ConAppSetting.csproj.CoreCompileInputs.cache
+D:\test\other\ConAppSetting\ConAppSetting\obj\Debug\ConAppSetting.exe
+D:\test\other\ConAppSetting\ConAppSetting\obj\Debug\ConAppSetting.pdb
+D:\test\other\ConAppSetting\ConAppSetting\bin\Debug\App.config
+D:\test\other\ConAppSetting\ConAppSetting\bin\Debug\System.IO.Packaging.dll
+D:\test\other\ConAppSetting\ConAppSetting\bin\Debug\System.IO.Packaging.xml
+D:\test\other\ConAppSetting\ConAppSetting\obj\Debug\ConAppSetting.csproj.CopyComplete
